@@ -1,0 +1,145 @@
+/* Maple Mono NF CN Unhinted - Maple Mono NF CN */
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-Thin.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-Thin.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-ThinItalic.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-ThinItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-ExtraLight.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-ExtraLight.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-ExtraLightItalic.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-ExtraLightItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-Light.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-LightItalic.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-LightItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-Regular.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-Italic.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-Italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-Medium.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-Medium.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-MediumItalic.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-MediumItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-SemiBold.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-SemiBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-SemiBoldItalic.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-SemiBoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-Bold.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-BoldItalic.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-BoldItalic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-ExtraBold.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-ExtraBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Maple Mono NF CN Unhinted';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url('./MapleMono-NF-CN-ExtraBoldItalic.woff2') format('woff2'),
+       url('./MapleMono-NF-CN-ExtraBoldItalic.woff') format('woff');
+}
